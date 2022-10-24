@@ -4,7 +4,7 @@ ComputerVision
     1.Instalación de Python:
         https://www.youtube.com/watch?v=nXgxe3JM7Rc
         https://www.python.org/downloads/
-    2.Instalación de la biblioteca de software libre de visión artificial OpenCV.
+    2.Instalación de la biblioteca de software libre OpenCV.
         pip install open-python
     3.Instalación de las librerias de Google open-source.
         pip install mediapipe 
