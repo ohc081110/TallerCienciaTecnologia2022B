@@ -8,3 +8,5 @@ ComputerVision
         pip install open-python
     3.Instalación de las librerias de Google open-source.
         pip install mediapipe 
+    4. Para el entrenamiento de la CNN consultar el siguiente repositorio:
+        https://github.com/ohc081110/YOLOv5
