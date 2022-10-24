@@ -1,6 +1,6 @@
 # TallerCienciaTecnologia2022B
 ComputerVision
-# Para compilar los programas de Vision por computadora sera necesario cubrir los siguientes requerimientos: 
+# Para compilar los programas de Vision por computadora será necesario cubrir los siguientes requerimientos: 
     1.Instalación de Python:
         https://www.youtube.com/watch?v=nXgxe3JM7Rc
         https://www.python.org/downloads/
